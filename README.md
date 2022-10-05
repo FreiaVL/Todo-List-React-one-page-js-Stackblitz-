@@ -1,3 +1,7 @@
-# Todo-List-React-one-page-js-Stackblitz-
+<h1>To do list app - React (frontend web practice)</h1>
+Quick to do list in a simplified React project, all components in one js file.<br/>
+Made as a quick practice project, WIP<br/>
+To do: add delete functionality, add "done" functionality, add filtering<br/><br/>
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/hello-react-example-u1euh1)
+Currently functional:<br/>
+Adding tasks/to do's that have both a title and (optional) description
